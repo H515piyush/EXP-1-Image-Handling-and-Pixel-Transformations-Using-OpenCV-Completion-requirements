@@ -1,6 +1,6 @@
 # Name:Piyush Kumar
 # Reg No:212223220075
-# EX01- Image-Handling-and-Pixel-Transformations-Using-OpenCV 
+# EXP NO 01- Image-Handling-and-Pixel-Transformations-Using-OpenCV 
 
 ## AIM:
 Write a Python program using OpenCV that performs the following tasks:
